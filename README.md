@@ -13,6 +13,9 @@
 ### Config
 
 Architecture: `arm`
+
 Kernel CFlags: `-w`
+
 Configuration File: `l1e-perf_defconfig`
+
 Cross compiler binary: `arm-eabi-`
