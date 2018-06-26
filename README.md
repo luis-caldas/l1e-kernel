@@ -17,4 +17,4 @@ Configuration File: `l1e-perf_defconfig`
 
 Cross compiler binary: `arm-eabi-`
 
-Perl version: 5.24.1
+Perl version: `5.24.1`
